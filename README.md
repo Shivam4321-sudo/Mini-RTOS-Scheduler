@@ -31,7 +31,7 @@ The project simulates task scheduling, timer ticks, context switching, Mutex, Se
 
 ---
 
-## How the Scheduler Works
+## How to Schedule task
 
 ```text
 Tasks
